@@ -3,14 +3,14 @@
 [✅下載心智圖](materials/python.xmind)
 
 # 重要分類：
-1. [運算子](operator.md)
-1. [資料型別/資料型態](type.md)
-    1. [Numeric Type](type_numerical.md)
-    1. [Sequence Types](type_sequence.md)
-    1. [Text Sequence Type](type_text_sequence.md)
-    1. [Binary Sequence Types](type_binary_sequence.md)
-    1. [Set Types](type_set.md)
-    1. [Mapping Types](type_map.md)
+1. [運算子](materials/operator.md)
+1. [資料型別/資料型態](materials/type.md)
+    1. [Numeric Type](materials/type_numerical.md)
+    1. [Sequence Types](materials/type_sequence.md)
+    1. [Text Sequence Type](materials/type_text_sequence.md)
+    1. [Binary Sequence Types](materials/type_binary_sequence.md)
+    1. [Set Types](materials/type_set.md)
+    1. [Mapping Types](materials/type_map.md)
 1. 程式撰寫風格
 1. 流程控制
 1. 函數
